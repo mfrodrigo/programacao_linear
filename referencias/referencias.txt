@@ -1,0 +1,19 @@
+Scipy
+
+https://docs.scipy.org/doc/scipy/reference/optimize.linprog-interior-point.html#:~:text=linprog%20converts%20the%20original%20problem,between%20two%20non%2Dnegative%20variables.
+
+https://docs.scipy.org/doc/scipy/reference/optimize.linprog-simplex.html
+
+https://docs.scipy.org/doc/scipy/reference/optimize.linprog-revised_simplex.html
+
+https://docs.scipy.org/doc/scipy/reference/optimize.linprog-highs-ds.html
+
+
+Outro método utilizando pulp
+
+https://realpython.com/linear-programming-python/
+
+Outro método utilizando Pyomo
+
+https://nbviewer.jupyter.org/github/Pyomo/PyomoGallery/blob/master/transport/transport.ipynb
+
